@@ -161,7 +161,7 @@ Issue 正文：
 活动开始后，麦当劳将定时采集报名成功项目的**公开 Star 数据**。**Star 数大于0**的项目将按照排名规则进入排行榜，参赛者可在活动主项目的`RANKING.md`文件中查看项目排名。
 
 - 排行榜仅展示排名前100的项目；如第100名存在多个Star数相同的项目，则所有并列项目均会展示。
-- 全部报名成功的项目可在活动主项目的 Issue 列表中查看。
+- 全部报名成功的项目可在活动主项目的 [Issue 列表](https://github.com/M-China-Official/mcd-developer-innovation-challenge/issues)中查看。
 
 <div class="img"><img src="./images/image11.png" alt="" width="1000" /></div>
 

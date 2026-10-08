@@ -72,6 +72,33 @@ WorkBuddy 是本次活动的官方合作伙伴。我们推荐参赛者使用 Wor
 
   <div class="img"><img src="./images/image6.png" alt="" width="1000" /></div>
 
+## WorkBuddy 开发指南
+
+- **前置条件：** 需申请到麦当劳中国的 MCP Token
+- **参考文档：** [WorkBuddy 官方文档](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector)
+
+1. 打开 WorkBuddy，在左侧边栏【专家·技能·连接器】，选中【连接器】页签
+2. 点击右上角【自定义连接器】→【配置MCP】
+3. 在打开的手动配置页面中填入以下 JSON 内容：
+
+   ```json
+   {
+     "mcpServers": {
+       "mcd-mcp": {
+         "type": "streamablehttp",
+         "url": "https://mcp.mcd.cn",
+         "headers": {
+           "Authorization": "Bearer YOUR_MCP_TOKEN"
+         }
+       }
+     }
+   }
+   ```
+
+   > ⚠️ **一定记得替换 `YOUR_MCP_TOKEN` 为实际 MCP Token，点击【保存】！**
+
+4. 回到【自定义连接器】，将 mcd-mcp【启用】。接下来，即可在对话框中输入需求，让 AI 调用相应工具。
+
 ## 开发 Skill
 
 参与者可以基于麦当劳现有的 MCP 能力，结合创意场景，开发具有创意或实用价值的 Skill 项目。为确保项目能够顺利报名，项目仓库应包含以下内容：

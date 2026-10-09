@@ -131,6 +131,7 @@ Issue 正文：
 项目地址：{项目 GitHub 仓库地址}
 项目简介：{项目简介}
 ```
+> ⚠️ **重要：Issue 内容请勿超过 1000 字，且请勿携带图片等内容，以免报名失败。**
 
 <div class="img"><img src="./images/image8.png" alt="" width="1000" /></div>
 

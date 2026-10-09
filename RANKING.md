@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-10 06:00:15
+更新时间：2026-10-10 07:00:15
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -8,8 +8,8 @@
 | 2 | MCD-happy-meal | pa***85 | 19 |
 | 3 | mcd-calorie-budget-skill | cy******us | 16 |
 | 3 | mcd-mcdrive-mate | yi********ng | 16 |
+| 5 | mcd-points-actuary | ak**in | 15 |
 | 5 | mcd-breakfast-variety | To********ei | 15 |
-| 6 | mcd-points-actuary | ak**in | 14 |
 | 7 | mcd-saver-strategist | hu**un | 13 |
 | 7 | mcd-save-master | ya***oo | 13 |
 | 7 | chilemai | He****nZ | 13 |
@@ -62,11 +62,13 @@
 | 44 | 1024-M-CODE | hs****zz | 1 |
 | 44 | mcd-merch-radar | Li****ev | 1 |
 | 44 | wo-yao-chi-shutiao | li********ed | 1 |
+| 44 | mcd-send-a-meal | mi***gh | 1 |
 | 44 | mcd-drop-day | he*******ve | 1 |
 | 44 | mcd-party-officer | yz***26 | 1 |
 | 44 | mcd-omni-assistant | Le*******77 | 1 |
 | 44 | mcd-macro-buddy | ro****xd | 1 |
 | 44 | mcd-saving-expert | ha*****ng | 1 |
+| 44 | mcd-merch-intel | Le******27 | 1 |
 | 44 | mcd-benefits-butler | Me*********is | 1 |
 | 44 | mcd-health-pass | AZ******ze | 1 |
 | 44 | MCD-DEX | ga******96 | 1 |

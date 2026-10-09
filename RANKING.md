@@ -1,18 +1,18 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-10 01:00:15
+更新时间：2026-10-10 02:00:15
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | MCD-happy-meal | pa***85 | 19 |
-| 2 | mcd-calorie-budget-skill | cy******us | 16 |
-| 3 | mcd-mcdrive-mate | yi********ng | 15 |
-| 4 | mcd-points-actuary | ak**in | 14 |
-| 5 | mcd-saver-strategist | hu**un | 13 |
-| 5 | mcd-save-master | ya***oo | 13 |
-| 5 | chilemai | He****nZ | 13 |
-| 8 | m-type | sh****ab | 12 |
-| 8 | mcd-breakfast-variety | To********ei | 12 |
+| 2 | m-type | sh****ab | 17 |
+| 3 | mcd-calorie-budget-skill | cy******us | 16 |
+| 3 | mcd-mcdrive-mate | yi********ng | 16 |
+| 5 | mcd-points-actuary | ak**in | 14 |
+| 6 | mcd-saver-strategist | hu**un | 13 |
+| 6 | mcd-breakfast-variety | To********ei | 13 |
+| 6 | mcd-save-master | ya***oo | 13 |
+| 6 | chilemai | He****nZ | 13 |
 | 10 | mcd-macro-strategist | ji******ue | 8 |
 | 11 | mcd-persona-card | Yo****25 | 7 |
 | 12 | mcd-skill | do******an | 6 |
@@ -21,29 +21,29 @@
 | 15 | maidazi | Gi****KL | 4 |
 | 15 | mcd-points-butler | li****ng | 4 |
 | 15 | mcd-m-balance | sa*******ao | 4 |
+| 15 | mcd-calorie-skill | or***ye | 4 |
 | 15 | mcd-birthday-butler | to******ng | 4 |
 | 15 | mcd-order-calories | Br****id | 4 |
 | 15 | mcd-feast-planner | hy*******nk | 4 |
-| 21 | maimen-butler | 07*iu | 3 |
-| 21 | mcd-points-hunter | se*******07 | 3 |
-| 21 | mcd-value-composer | aw***en | 3 |
-| 21 | mcd-group-order-captain | he*******ng | 3 |
-| 21 | mcd-diff | we******21 | 3 |
-| 21 | mcd-points-vault | my******66 | 3 |
-| 21 | mcd-cn-assistant | ju************er | 3 |
-| 21 | mcd-budget-solver | ai******sx | 3 |
-| 21 | mcd-wrapped | lv*****ng | 3 |
-| 30 | mcd-roundtable | 69*****17 | 2 |
-| 30 | macrobuddy | so*****ng | 2 |
-| 30 | mcd-no-pickle | mo********an | 2 |
-| 30 | mcd-calorie-skill | or***ye | 2 |
-| 30 | mcd-guochao-yearbook | ly****99 | 2 |
-| 30 | mcd-maimen-yearbook | st******99 | 2 |
-| 30 | mcd-craving-coach | ke******su | 2 |
-| 30 | McOptimize | Yu****Hu | 2 |
-| 30 | mcd-premium-buddy | ji**im | 2 |
-| 30 | mcd-saver | Oi***HH | 2 |
-| 30 | mcd-roguelike-order | Bi*****30 | 2 |
+| 22 | maimen-butler | 07*iu | 3 |
+| 22 | mcd-points-hunter | se*******07 | 3 |
+| 22 | mcd-value-composer | aw***en | 3 |
+| 22 | mcd-group-order-captain | he*******ng | 3 |
+| 22 | mcd-diff | we******21 | 3 |
+| 22 | mcd-points-vault | my******66 | 3 |
+| 22 | mcd-cn-assistant | ju************er | 3 |
+| 22 | mcd-budget-solver | ai******sx | 3 |
+| 22 | mcd-wrapped | lv*****ng | 3 |
+| 31 | mcd-roundtable | 69*****17 | 2 |
+| 31 | macrobuddy | so*****ng | 2 |
+| 31 | mcd-no-pickle | mo********an | 2 |
+| 31 | mcd-guochao-yearbook | ly****99 | 2 |
+| 31 | mcd-maimen-yearbook | st******99 | 2 |
+| 31 | mcd-craving-coach | ke******su | 2 |
+| 31 | McOptimize | Yu****Hu | 2 |
+| 31 | mcd-premium-buddy | ji**im | 2 |
+| 31 | mcd-saver | Oi***HH | 2 |
+| 31 | mcd-roguelike-order | Bi*****30 | 2 |
 | 41 | mcd-order-buddy | CB**ao | 1 |
 | 41 | mcd-nutrition-optimizer | Hx*****12 | 1 |
 | 41 | mcd-ai-order | WL****21 | 1 |
@@ -87,5 +87,6 @@
 | 41 | MCD-MMTI | Sa*****au | 1 |
 | 41 | mcd-replay-workbuddy | xi*********ng | 1 |
 | 41 | mcd-ai-decider | su******mz | 1 |
+| 41 | mcd-china-map | Ja*****CN | 1 |
 | 41 | mcmuscle-ai | lj***fa | 1 |
 | 41 | mcd-smart-order-optimizer | 麦* | 1 |

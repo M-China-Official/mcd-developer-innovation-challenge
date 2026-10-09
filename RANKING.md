@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-10 05:00:15
+更新时间：2026-10-10 06:00:15
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -8,8 +8,8 @@
 | 2 | MCD-happy-meal | pa***85 | 19 |
 | 3 | mcd-calorie-budget-skill | cy******us | 16 |
 | 3 | mcd-mcdrive-mate | yi********ng | 16 |
-| 5 | mcd-points-actuary | ak**in | 14 |
-| 5 | mcd-breakfast-variety | To********ei | 14 |
+| 5 | mcd-breakfast-variety | To********ei | 15 |
+| 6 | mcd-points-actuary | ak**in | 14 |
 | 7 | mcd-saver-strategist | hu**un | 13 |
 | 7 | mcd-save-master | ya***oo | 13 |
 | 7 | chilemai | He****nZ | 13 |

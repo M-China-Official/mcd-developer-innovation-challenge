@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-09 20:28:35
+更新时间：2026-10-09 21:00:12
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -22,42 +22,43 @@
 | 16 | maimen-butler | 07*iu | 3 |
 | 16 | mcd-points-hunter | se*******07 | 3 |
 | 16 | mcd-group-order-captain | he*******ng | 3 |
+| 16 | mcd-points-vault | my******66 | 3 |
 | 16 | mcd-cn-assistant | ju************er | 3 |
+| 16 | mcd-skill | do******an | 3 |
 | 16 | mcd-birthday-butler | to******ng | 3 |
+| 16 | mcd-wrapped | lv*****ng | 3 |
 | 16 | mcd-feast-planner | hy*******nk | 3 |
-| 22 | mcd-roundtable | 69*****17 | 2 |
-| 22 | macrobuddy | so*****ng | 2 |
-| 22 | mcd-no-pickle | mo********an | 2 |
-| 22 | mcd-budget-solver | ai******sx | 2 |
-| 22 | mcd-craving-coach | ke******su | 2 |
-| 22 | McOptimize | Yu****Hu | 2 |
-| 22 | mcd-premium-buddy | ji**im | 2 |
-| 29 | mcd-order-buddy | CB**ao | 1 |
-| 29 | mcd-nutrition-optimizer | Hx*****12 | 1 |
-| 29 | mcd-ai-order | WL****21 | 1 |
-| 29 | mcd-activity-radar | wa*******og | 1 |
-| 29 | mcd-nutrition-planner | ro******jt | 1 |
-| 29 | mcjudge | Sh********ht | 1 |
-| 29 | mcd-team-meal-director | Jo******49 | 1 |
-| 29 | mcdonalds-cn | bo****ba | 1 |
-| 29 | 1024-M-CODE | hs****zz | 1 |
-| 29 | wo-yao-chi-shutiao | li********ed | 1 |
-| 29 | mcd-macro-buddy | ro****xd | 1 |
-| 29 | mcd-saving-expert | ha*****ng | 1 |
-| 29 | mcd-points-vault | my******66 | 1 |
-| 29 | mcd-event-radar | Za*****iu | 1 |
-| 29 | mcd-meal-planner | xu**34 | 1 |
-| 29 | Registration_Example | Li*******14 | 1 |
-| 29 | mcd-skill | do******an | 1 |
-| 29 | mcperks-planner | qi******62 | 1 |
-| 29 | mcd-coupon-butler | 37*****62 | 1 |
-| 29 | mc-breakeven | ca****es | 1 |
-| 29 | mcd-soul-plate | im*ww | 1 |
-| 29 | mcd-chill | yh**zl | 1 |
-| 29 | mcd-lottery-quant | ma******97 | 1 |
-| 29 | mcd-whoami | cx*****dd | 1 |
-| 29 | mcd-wrapped | lv*****ng | 1 |
-| 29 | mcd-fries-architect | yu*********ng | 1 |
-| 29 | mcd-ai-decider | su******mz | 1 |
-| 29 | mcmuscle-ai | lj***fa | 1 |
-| 29 | mcd-smart-order-optimizer | 麦* | 1 |
+| 25 | mcd-roundtable | 69*****17 | 2 |
+| 25 | macrobuddy | so*****ng | 2 |
+| 25 | mcd-no-pickle | mo********an | 2 |
+| 25 | mcd-budget-solver | ai******sx | 2 |
+| 25 | mcd-craving-coach | ke******su | 2 |
+| 25 | McOptimize | Yu****Hu | 2 |
+| 25 | mcd-premium-buddy | ji**im | 2 |
+| 32 | mcd-order-buddy | CB**ao | 1 |
+| 32 | mcd-nutrition-optimizer | Hx*****12 | 1 |
+| 32 | mcd-ai-order | WL****21 | 1 |
+| 32 | mcd-activity-radar | wa*******og | 1 |
+| 32 | mcd-nutrition-planner | ro******jt | 1 |
+| 32 | mcjudge | Sh********ht | 1 |
+| 32 | mcd-team-meal-director | Jo******49 | 1 |
+| 32 | mcd-lucky-koi | Al**op | 1 |
+| 32 | mcdonalds-cn | bo****ba | 1 |
+| 32 | 1024-M-CODE | hs****zz | 1 |
+| 32 | wo-yao-chi-shutiao | li********ed | 1 |
+| 32 | mcd-macro-buddy | ro****xd | 1 |
+| 32 | mcd-saving-expert | ha*****ng | 1 |
+| 32 | mcd-event-radar | Za*****iu | 1 |
+| 32 | mcd-meal-planner | xu**34 | 1 |
+| 32 | Registration_Example | Li*******14 | 1 |
+| 32 | mcperks-planner | qi******62 | 1 |
+| 32 | mcd-coupon-butler | 37*****62 | 1 |
+| 32 | mc-breakeven | ca****es | 1 |
+| 32 | mcd-soul-plate | im*ww | 1 |
+| 32 | mcd-chill | yh**zl | 1 |
+| 32 | mcd-lottery-quant | ma******97 | 1 |
+| 32 | mcd-whoami | cx*****dd | 1 |
+| 32 | mcd-fries-architect | yu*********ng | 1 |
+| 32 | mcd-ai-decider | su******mz | 1 |
+| 32 | mcmuscle-ai | lj***fa | 1 |
+| 32 | mcd-smart-order-optimizer | 麦* | 1 |

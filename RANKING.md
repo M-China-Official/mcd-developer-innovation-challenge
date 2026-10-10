@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-11 05:00:25
+更新时间：2026-10-11 06:00:25
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -20,12 +20,12 @@
 | 14 | mcd-breakfast-variety | To********ei | 20 |
 | 15 | mcd-cart-optimizer | du******32 | 19 |
 | 16 | mcd-points-vault | my******66 | 17 |
+| 16 | mcd-craving-coach | ke******su | 17 |
 | 16 | mcd-mcdrive-mate | yi********ng | 17 |
-| 18 | mcd-1024-skill | 麦* | 16 |
-| 18 | mcd-points-actuary | ak**in | 16 |
-| 18 | mcd-save-master | ya***oo | 16 |
-| 18 | mcd-craving-coach | ke******su | 16 |
-| 18 | maimai-fun-orderer | Fu****ng | 16 |
+| 16 | maimai-fun-orderer | Fu****ng | 17 |
+| 20 | mcd-1024-skill | 麦* | 16 |
+| 20 | mcd-points-actuary | ak**in | 16 |
+| 20 | mcd-save-master | ya***oo | 16 |
 | 23 | mcd-voice-order-assistant | 麦* | 15 |
 | 24 | McOptima | YO**XX | 14 |
 | 24 | chilemai | He****nZ | 14 |

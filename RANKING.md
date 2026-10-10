@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-11 04:00:28
+更新时间：2026-10-11 05:00:25
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -13,29 +13,29 @@
 | 7 | mcd-saver-strategist | hu**un | 32 |
 | 8 | mcd-fortune | zm************ud | 29 |
 | 9 | m-type | sh****ab | 26 |
-| 10 | mcd-party-buddy | Ne***93 | 23 |
-| 10 | mcd-calorie-budget-skill | cy******us | 23 |
-| 10 | mcd-no-pickle | mo********an | 23 |
-| 10 | mcd-fries-architect | yu*********ng | 23 |
+| 10 | mcd-fries-architect | yu*********ng | 24 |
+| 11 | mcd-party-buddy | Ne***93 | 23 |
+| 11 | mcd-calorie-budget-skill | cy******us | 23 |
+| 11 | mcd-no-pickle | mo********an | 23 |
 | 14 | mcd-breakfast-variety | To********ei | 20 |
 | 15 | mcd-cart-optimizer | du******32 | 19 |
 | 16 | mcd-points-vault | my******66 | 17 |
 | 16 | mcd-mcdrive-mate | yi********ng | 17 |
+| 18 | mcd-1024-skill | 麦* | 16 |
 | 18 | mcd-points-actuary | ak**in | 16 |
 | 18 | mcd-save-master | ya***oo | 16 |
-| 20 | mcd-1024-skill | 麦* | 15 |
-| 20 | mcd-craving-coach | ke******su | 15 |
-| 20 | mcd-voice-order-assistant | 麦* | 15 |
-| 23 | chilemai | He****nZ | 14 |
-| 23 | mcd-budget-skill | Li****nx | 14 |
-| 23 | maimai-fun-orderer | Fu****ng | 14 |
-| 26 | mcd-merch-intel | Le******27 | 13 |
-| 26 | mcd-easy-order | wa******i2 | 13 |
-| 26 | McOptima | YO**XX | 13 |
-| 29 | mcd-activity-intel | Jo*********ub | 12 |
-| 29 | mcd-100kcal | sh*****ry | 12 |
-| 29 | MM-helper | si*************ep | 12 |
-| 29 | mcperks-planner | qi******62 | 12 |
+| 18 | mcd-craving-coach | ke******su | 16 |
+| 18 | maimai-fun-orderer | Fu****ng | 16 |
+| 23 | mcd-voice-order-assistant | 麦* | 15 |
+| 24 | McOptima | YO**XX | 14 |
+| 24 | chilemai | He****nZ | 14 |
+| 24 | mcd-budget-skill | Li****nx | 14 |
+| 27 | mcd-merch-intel | Le******27 | 13 |
+| 27 | mcd-easy-order | wa******i2 | 13 |
+| 27 | MM-helper | si*************ep | 13 |
+| 30 | mcd-activity-intel | Jo*********ub | 12 |
+| 30 | mcd-100kcal | sh*****ry | 12 |
+| 30 | mcperks-planner | qi******62 | 12 |
 | 33 | mac-Buddy | i**4 | 11 |
 | 33 | mcd-macro-strategist | ji******ue | 11 |
 | 35 | mcd-persona-card | Yo****25 | 10 |

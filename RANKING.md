@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-11 06:00:25
+更新时间：2026-10-11 07:00:25
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -17,22 +17,22 @@
 | 11 | mcd-party-buddy | Ne***93 | 23 |
 | 11 | mcd-calorie-budget-skill | cy******us | 23 |
 | 11 | mcd-no-pickle | mo********an | 23 |
-| 14 | mcd-breakfast-variety | To********ei | 20 |
+| 14 | mcd-breakfast-variety | To********ei | 21 |
 | 15 | mcd-cart-optimizer | du******32 | 19 |
-| 16 | mcd-points-vault | my******66 | 17 |
-| 16 | mcd-craving-coach | ke******su | 17 |
-| 16 | mcd-mcdrive-mate | yi********ng | 17 |
-| 16 | maimai-fun-orderer | Fu****ng | 17 |
-| 20 | mcd-1024-skill | 麦* | 16 |
-| 20 | mcd-points-actuary | ak**in | 16 |
-| 20 | mcd-save-master | ya***oo | 16 |
+| 16 | mcd-craving-coach | ke******su | 18 |
+| 16 | maimai-fun-orderer | Fu****ng | 18 |
+| 18 | mcd-1024-skill | 麦* | 17 |
+| 18 | mcd-points-vault | my******66 | 17 |
+| 18 | mcd-mcdrive-mate | yi********ng | 17 |
+| 21 | mcd-points-actuary | ak**in | 16 |
+| 21 | mcd-save-master | ya***oo | 16 |
 | 23 | mcd-voice-order-assistant | 麦* | 15 |
+| 24 | MM-helper | si*************ep | 14 |
 | 24 | McOptima | YO**XX | 14 |
 | 24 | chilemai | He****nZ | 14 |
 | 24 | mcd-budget-skill | Li****nx | 14 |
-| 27 | mcd-merch-intel | Le******27 | 13 |
-| 27 | mcd-easy-order | wa******i2 | 13 |
-| 27 | MM-helper | si*************ep | 13 |
+| 28 | mcd-merch-intel | Le******27 | 13 |
+| 28 | mcd-easy-order | wa******i2 | 13 |
 | 30 | mcd-activity-intel | Jo*********ub | 12 |
 | 30 | mcd-100kcal | sh*****ry | 12 |
 | 30 | mcperks-planner | qi******62 | 12 |

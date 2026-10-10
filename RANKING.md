@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-11 02:00:27
+更新时间：2026-10-11 03:00:25
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -16,28 +16,28 @@
 | 10 | mcd-party-buddy | Ne***93 | 23 |
 | 10 | mcd-calorie-budget-skill | cy******us | 23 |
 | 10 | mcd-fries-architect | yu*********ng | 23 |
-| 13 | mcd-breakfast-variety | To********ei | 20 |
-| 14 | mcd-cart-optimizer | du******32 | 19 |
-| 15 | mcd-points-vault | my******66 | 17 |
-| 15 | mcd-no-pickle | mo********an | 17 |
-| 15 | mcd-mcdrive-mate | yi********ng | 17 |
+| 13 | mcd-no-pickle | mo********an | 21 |
+| 14 | mcd-breakfast-variety | To********ei | 20 |
+| 15 | mcd-cart-optimizer | du******32 | 19 |
+| 16 | mcd-points-vault | my******66 | 17 |
+| 16 | mcd-mcdrive-mate | yi********ng | 17 |
 | 18 | mcd-points-actuary | ak**in | 16 |
 | 18 | mcd-save-master | ya***oo | 16 |
+| 20 | mcd-1024-skill | 麦* | 15 |
 | 20 | mcd-voice-order-assistant | 麦* | 15 |
-| 21 | mcd-1024-skill | 麦* | 14 |
-| 21 | chilemai | He****nZ | 14 |
-| 21 | mcd-budget-skill | Li****nx | 14 |
-| 24 | mcd-merch-intel | Le******27 | 13 |
-| 24 | mcd-easy-order | wa******i2 | 13 |
-| 24 | mcd-craving-coach | ke******su | 13 |
-| 27 | mcd-activity-intel | Jo*********ub | 12 |
-| 27 | mcd-100kcal | sh*****ry | 12 |
-| 27 | mcperks-planner | qi******62 | 12 |
-| 27 | McOptima | YO**XX | 12 |
-| 27 | maimai-fun-orderer | Fu****ng | 12 |
-| 32 | MM-helper | si*************ep | 11 |
-| 32 | mac-Buddy | i**4 | 11 |
-| 32 | mcd-macro-strategist | ji******ue | 11 |
+| 22 | chilemai | He****nZ | 14 |
+| 22 | mcd-budget-skill | Li****nx | 14 |
+| 22 | mcd-craving-coach | ke******su | 14 |
+| 25 | mcd-merch-intel | Le******27 | 13 |
+| 25 | mcd-easy-order | wa******i2 | 13 |
+| 25 | McOptima | YO**XX | 13 |
+| 25 | maimai-fun-orderer | Fu****ng | 13 |
+| 29 | mcd-activity-intel | Jo*********ub | 12 |
+| 29 | mcd-100kcal | sh*****ry | 12 |
+| 29 | MM-helper | si*************ep | 12 |
+| 29 | mcperks-planner | qi******62 | 12 |
+| 33 | mac-Buddy | i**4 | 11 |
+| 33 | mcd-macro-strategist | ji******ue | 11 |
 | 35 | mcd-persona-card | Yo****25 | 10 |
 | 35 | mcd-meal-brain | 麦* | 10 |
 | 35 | mcd-skill | do******an | 10 |
